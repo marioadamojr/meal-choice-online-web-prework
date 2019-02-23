@@ -6,5 +6,5 @@ def meal_choice(meal = "meat")
 end
 
 
-puts meal_choice()
-puts meal_choice("Salad")
+#puts meal_choice()
+#puts meal_choice("Salad")
